@@ -378,7 +378,7 @@ label span {
     }
 
     main .coluna section .baixo-esquerda {
-       bottom: -1px;
+       bottom: 0px;
        right: -2px;
        animation-name: aumentarLargura, aumentarAltura;
        animation-duration: 1s, 1s;
